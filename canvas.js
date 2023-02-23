@@ -1,3 +1,3 @@
 let cuadroCanvas = document.getElementById('dibujo')
-let lienzo
+let lienzo =cuadroCanvas.getcontext('2d')
 
